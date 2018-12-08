@@ -1,0 +1,23 @@
+{
+  "name": "test-github-classroom-base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha -- test/**.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neverendingqs-sandbox/test-github-classroom-base.git"
+  },
+  "author": "neverendingqs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neverendingqs-sandbox/test-github-classroom-base/issues"
+  },
+  "homepage": "https://github.com/neverendingqs-sandbox/test-github-classroom-base#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
